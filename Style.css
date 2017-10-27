@@ -1,0 +1,18 @@
+
+
+body{
+    background: url(images/background.jpg) center center fixed;
+    background-size: cover;
+    text-align:center;
+    font-family:Arvo, serif;
+}
+.jumbotron{
+    background-color:transparent;
+}
+
+.jumbotron h1 {
+    letter-spacing:2.5px;
+}
+.form-horizontal{
+    margin-top:50px;
+}
